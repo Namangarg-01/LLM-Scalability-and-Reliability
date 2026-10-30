@@ -1,0 +1,9 @@
+langchain-groq
+pydantic
+python-dotenv
+langchain
+langchain-groq 
+ipykernel
+langgraph
+langsmith
+langchain_tavily
