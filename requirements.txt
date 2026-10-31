@@ -7,3 +7,7 @@ ipykernel
 langgraph
 langsmith
 langchain_tavily
+langchain_openai
+langgraph-cli[inmem]
+langchain_community
+langchain-tavily
